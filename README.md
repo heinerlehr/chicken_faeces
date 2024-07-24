@@ -19,5 +19,9 @@ This notebook contains a prototype classifaction system that correctly classifie
 
 ![Confusion matrix](Confusion_matrix_result.png "Confusion matrix of the test set")
 
+An example of the classified pictures is shown below.
+
+![Classified pictures of faeces](Classified_pictures.png)
+
 **References:**
 Shaji S, Selvaraj RK, Shanmugasundaram R. Salmonella Infection in Poultry: A Review on the Pathogen and Control Strategies. Microorganisms. 2023 Nov 20;11(11):2814. doi: 10.3390/microorganisms11112814. PMID: 38004824; PMCID: PMC10672927.
