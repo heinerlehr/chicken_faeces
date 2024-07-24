@@ -3,7 +3,7 @@
 Chickens in commercial broiler farms suffer from a variety of disease. Given the density of the chicken population (typically 14-17 birds per m$^2$), these diseases spread quickly. And given the amount of chickens per barn (30-50,000) and the number of hours per day available for a barn (probably <4h), there is a need to detect illnesses very fast and provide a remedy if possible.
 
 Illnesses in chicken barns can be roughly classified into
-- Respiratory diseases (e.g. cough, flu)
+- 
 - Skeleton-based diseases (e.g. lameness, pododermatitis)
 - Diseases that affect the digestive tract
 
